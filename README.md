@@ -55,12 +55,13 @@
 <br/>
 
 ### Tools
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"height="40"/></a>
- <br> <br>
- 
-<!-- <img align="left" alt="Mathlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mathlab/Matlab_Logo.svg" style="padding-right:10px;"/>
- -->
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"height="40"/></a>
+<br> <br>
+
+<!-- <img align="left" alt="Mathlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mathlab/Matlab_Logo.svg" style="padding-right:10px;"/> -->
+
+<img align="left" alt="Figma" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right:10px;" />
 
