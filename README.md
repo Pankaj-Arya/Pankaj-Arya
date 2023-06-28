@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Pankaj Arya</h1>
-<h3 align="center">A passionate Software Engineer and Math Specialist from Bangladesh</h3>
+ 
+<h3 align="center">A passionate Software Engineer and Math Specialist</h3>
 
 - 🌱 I’m currently learning **Compiler Design**
 
@@ -17,6 +18,7 @@
 [![Dribbble Follow](https://img.shields.io/badge/Dribbble-FF0000?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Pan78m)
 [![Codepen Follow](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Pankaj-Arya)
 [![Stackoverflow Follow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22145234/pankaj-mahanto)
+
 [![Dev Follow](https://img.shields.io/badge/Dev-A0A0A0?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mahanto_pankaj)
 [![Youtube Follow](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@pan78mtricks)
 
